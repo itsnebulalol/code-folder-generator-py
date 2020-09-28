@@ -13,6 +13,7 @@ print(" ")
 print(" - Generating, please wait...")
 os.mkdir(os.getcwd() + os.path.sep + name)
 os.system("git init ." + os.path.sep + name)
+os.system("echo # " + name + " > ." + os.path.sep + name + os.path.sep + "README.md")
 print(" ")
 
 print(" - Opening in Visual Studio Code...")
