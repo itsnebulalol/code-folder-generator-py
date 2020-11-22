@@ -1,6 +1,8 @@
 # Code Folder Generator
 The most simple project folder generator written in Python.
 
+Hey there, this project will no longer be supported, and will be archived on GitHub. My new Code Folder Generator will be written in Node.JS. You can find it [here](https://github.com/itsnebulalol/code-folder-generator).
+
 ## Install
 1. (OPTIONAL) Rename `main.py` to something easier. (e.g. `gen.py`)
 2. Move the file to a directory you will remember.
